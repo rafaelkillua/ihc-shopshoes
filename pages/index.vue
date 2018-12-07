@@ -4,9 +4,9 @@
             <v-flex xs12>
                 <v-card>
                     <v-card-text class="pa-5">
-                        <strong class="display-3">Bem vindo ao E-letronic!</strong>
+                        <strong class="display-3">Bem vindo ao ShopShoes!</strong>
                         <br>
-                        <span class="display-1">Uma loja online de artigos eletrônicos!</span>
+                        <span class="display-1">Uma loja online de sapatos lindos!</span>
                         <br>
                         <span class="subtitle">Finge que tem um banner bem massa de fundo...</span>
                     </v-card-text>
